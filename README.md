@@ -8,3 +8,5 @@ Test change 2 - branching and merging.
 
 - example_file.txt
 
+Github change test
+
